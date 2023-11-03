@@ -78,7 +78,7 @@ This is a web application that serves as a functioning bookstore, built using La
 ### Database
 - Configure your database connection in the `.env` file. Use either MySQL or PostgreSQL as specified.
 
-### Elastic Search (optional)
+### Meilisearch
 - Configure the Meilisearch connection in the `.env` file.
       SCOUT_DRIVER=meilisearch
       MEILISEARCH_HOST=http://127.0.0.1:7700
